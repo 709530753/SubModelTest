@@ -1,0 +1,3 @@
+[submodule "SubModelKit"]
+	path = SubModelKit
+	url = git@github.com:709530753/SubModelKit.git
